@@ -18,7 +18,7 @@ export default function About(){
                 <Col>
                     <Row>
                         <Col sm={12} md={6}>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8787.294640685568!2d-4.411613909833771!3d54.32747103244227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48639f3e6c7e2977%3A0xa41cf10fc8ade59f!2sMountain%20View%20Innovation%20Centre!5e0!3m2!1sen!2sim!4v1659875062194!5m2!1sen!2sim" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8787.294640685568!2d-4.411613909833771!3d54.32747103244227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48639f3e6c7e2977%3A0xa41cf10fc8ade59f!2sMountain%20View%20Innovation%20Centre!5e0!3m2!1sen!2sim!4v1659875062194!5m2!1sen!2sim" width="100%" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </Col>
                         <Col sm={12} md={6}>
                             <h2>Where are we?</h2>
