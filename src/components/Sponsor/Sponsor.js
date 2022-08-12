@@ -7,6 +7,7 @@ export default function About(){
     return(
         <Container className="Sponsor" id="sponsor">
             <h1>Sponsor Us?</h1>
+            <p>Want to sponsor this event? Check out our sponsorship opportunities in our <a href="./Sponsorship Prospectus.pdf" target="_blank" rel="noreferrer">Sponsorship Prospectus</a></p>
             <Row className='sponsorContent'>
                 {/* platinum x2 = 15000 */}
                 <h2>Platinum Sponsors</h2>

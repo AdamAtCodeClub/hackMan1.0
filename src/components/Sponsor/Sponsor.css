@@ -16,6 +16,15 @@
     max-width:100%; 
 }
 
+.Sponsor a{
+    color: white;
+}
+
+.Sponsor a:hover{
+    color: orange;
+    text-decoration-style: dotted;
+}
+
 .aSponsor{
     /* display:block; */
     border-radius: 10px;
