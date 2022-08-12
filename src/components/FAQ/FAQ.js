@@ -59,7 +59,7 @@ export default function FAQ(){
                 <Col sm={12} md={6} lg={4} className="qa">
                     <div className="qaInner">
                         <p className="question">Is there a Code of Conduct?</p>
-                        <p className="answer"><b>Yes.</b><br />We follow the <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">Major League Hacking Code of Conduct</a>. Put short, be respectful.</p>
+                        <p className="answer"><b>Yes.</b><br />We follow the <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf" rel="noreferrer" target="_blank">Major League Hacking Code of Conduct</a>. Put short, be respectful.</p>
                     </div>
                 </Col>
                 <Col sm={12} md={6} lg={12} className="qa">

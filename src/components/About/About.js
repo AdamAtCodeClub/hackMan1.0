@@ -11,7 +11,7 @@ export default function About(){
                 <Col md={6} sm={12}>
                     <h1>About</h1>
                     <h2>What is a Hackathon?</h2>
-                    <p>What is a Hackathon? A hackathon is a 24–48-hour period where <a href="https://www.webroot.com/us/en/resources/glossary/what-is-a-hacker#:~:text=A%20hacker%20is%20just%20a%20person%20who%20uses%20computer%20programming%20or%20technical%20skills%20to%20overcome%20a%20challenge%20or%20problem." target="_blank">hackers</a> come together, either in teams or individually, to create a piece of software. During the event, hackers compete against each other by participating in challenges to create software to meet specific criteria or hackers may choose to just experiment and have fun to see what the world of coding can allow them to create. Teams have the ability to win prizes by creating the most effective response to the challenges or by having the top project overall.</p>
+                    <p>What is a Hackathon? A hackathon is a 24–48-hour period where <a href="https://www.webroot.com/us/en/resources/glossary/what-is-a-hacker#:~:text=A%20hacker%20is%20just%20a%20person%20who%20uses%20computer%20programming%20or%20technical%20skills%20to%20overcome%20a%20challenge%20or%20problem." target="_blank" rel="noreferrer">hackers</a> come together, either in teams or individually, to create a piece of software. During the event, hackers compete against each other by participating in challenges to create software to meet specific criteria or hackers may choose to just experiment and have fun to see what the world of coding can allow them to create. Teams have the ability to win prizes by creating the most effective response to the challenges or by having the top project overall.</p>
                     <h2>What is hackMan?</h2>
                     <p>hackMan is the Isle of Man’s first ever hackathon, held between the 28th to the 30th of October. We are looking to host upwards of 1OO “hackers” (competitors), not only from across the Isle of Man but also further afield, with an additional support pathway for those travelling to the island.</p>
                 </Col>
@@ -22,7 +22,7 @@ export default function About(){
                         </Col>
                         <Col sm={12} md={6}>
                             <h2>Where are we?</h2>
-                            <p>We will be taking residency in Studio One at <a href="https://mvic.im">Mountain View Innovation Centre</a> in the Isle of Man.</p>
+                            <p>We will be taking residency in Studio One at <a href="https://mvic.im" target="_blank">Mountain View Innovation Centre</a> in the Isle of Man.</p>
                             <p>Mountain View Innovation Centre
                                 <br />Jurby Road
                                 <br />Lezayre, Ramsey
