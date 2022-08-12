@@ -22,7 +22,7 @@ export default function About(){
                         </Col>
                         <Col sm={12} md={6}>
                             <h2>Where are we?</h2>
-                            <p>We will be taking residency in Studio One at <a href="https://mvic.im" target="_blank">Mountain View Innovation Centre</a> in the Isle of Man.</p>
+                            <p>We will be taking residency in Studio One at <a href="https://mvic.im" target="_blank" rel="noreferrer">Mountain View Innovation Centre</a> in the Isle of Man.</p>
                             <p>Mountain View Innovation Centre
                                 <br />Jurby Road
                                 <br />Lezayre, Ramsey
