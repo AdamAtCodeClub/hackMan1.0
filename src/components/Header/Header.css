@@ -17,3 +17,8 @@
 .navOption{
     color:white;
 }
+
+.navOption:hover{
+    color:orange;
+}
+

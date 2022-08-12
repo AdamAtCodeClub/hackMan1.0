@@ -12,6 +12,16 @@
     background-position: center;
     background-size: cover;
 }
+
+.About a{
+    color: black;
+}
+
+.About a:hover{
+    text-decoration-style: dotted;
+    color: purple;
+}
+
 .About img{
     width:100%;
     max-width:50vh;
