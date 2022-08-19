@@ -1,6 +1,7 @@
 .Intro{
     text-align:center;
     padding:10vh 0 0 0;
+    background-color: lightslategray;
     background-image:url("../../../public/images/bg-dark.png");
     background-position: center;
     background-size: cover;

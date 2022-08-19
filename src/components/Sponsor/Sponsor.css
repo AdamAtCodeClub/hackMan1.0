@@ -2,6 +2,7 @@
     max-width:100%;
     padding:0;
     margin:0;
+    background-color: navy;
     background-image:url("../../../public/images/hackMan-splash-night.png");
     background-position: center;
     background-size: cover;
@@ -47,4 +48,8 @@
     margin:0;
     padding:0;
     width:100vw;
+}
+
+.sponsorText{
+    padding:0 10px;
 }

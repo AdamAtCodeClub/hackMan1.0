@@ -6,8 +6,10 @@ export default function About(){
 
     return(
         <Container className="Sponsor" id="sponsor">
-            <h1>Sponsor Us?</h1>
-            <p>Want to sponsor this event? Check out our sponsorship opportunities in our <a href="./Sponsorship Prospectus.pdf" target="_blank" rel="noreferrer">Sponsorship Prospectus</a></p>
+            <div className="sponsorText">
+                <h1>Sponsor Us?</h1>
+                <p>Want to sponsor this event? Check out our sponsorship opportunities in our <a href="./Sponsorship Prospectus.pdf" target="_blank" rel="noreferrer">Sponsorship Prospectus</a></p>
+            </div>
             <Row className='sponsorContent'>
                 {/* platinum x2 = 15000 */}
                 <h2>Platinum Sponsors</h2>
@@ -30,48 +32,48 @@ export default function About(){
                 </Col>
                 <h3>Silver Sponsors</h3>
                 {/* silver x6 = 6000 */}
-                <Col sm={12} md={4} lg={4} className="aSponsor">
+                <Col sm={6} md={4} lg={4} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={4} lg={4} className="aSponsor">
+                <Col sm={6} md={4} lg={4} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={4} lg={4} className="aSponsor">
+                <Col sm={6} md={4} lg={4} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={4} lg={4} className="aSponsor">
+                <Col sm={6} md={4} lg={4} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={4} lg={4} className="aSponsor">
+                <Col sm={6} md={4} lg={4} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={4} lg={4} className="aSponsor">
+                <Col sm={6} md={4} lg={4} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
                 <h3>Bronze Sponsors</h3>
                 {/* bronze x8 = 4000 */}
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
-                <Col sm={12} md={3} lg={3} className="aSponsor">
+                <Col sm={6} md={3} lg={3} className="aSponsor">
                     <div className="aSponsorInner">This could be you!</div>
                 </Col>
 
